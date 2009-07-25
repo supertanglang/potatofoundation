@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Updates and news regarding the development of this framework.
 
 = Introduction =
 
