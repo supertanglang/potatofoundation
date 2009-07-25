@@ -2,12 +2,10 @@
 
 = Introduction =
 
-Add your content here.
+The following list of news items is arranged according to date.
 
+= News List=
+* 25 July 
+I was ill during the months of June and July and I was unable to make significant progress
+thus, I expect the new publication date to be the End of August 2009.
 
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
